@@ -20,3 +20,4 @@ const drag = (e) => {
 };
 
 container.addEventListener("mousemove", drag );
+delete
